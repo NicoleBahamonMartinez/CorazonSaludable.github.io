@@ -119,15 +119,15 @@ a:hover {
 }
 
 a.red {
-	color: #6ABDAB;
+	color: #0000FF;
 }
 
 .btn-solid-reg {
 	display: inline-block;
 	padding: 1.1875rem 2.125rem 1.1875rem 2.125rem;
-	border: 0.125rem solid #6ABDAB;
+	border: 0.125rem solid #0000FF;
 	border-radius: 2rem;
-	background-color: #6ABDAB;
+	background-color: #0000FF;
 	color: #fff;
 	font: 700 0.875rem/0 "Open Sans", sans-serif;
 	text-decoration: none;
@@ -135,18 +135,18 @@ a.red {
 }
 
 .btn-solid-reg:hover {
-	border: 0.125rem solid #6ABDAB;
+	border: 0.125rem solid #0000FF;
 	background-color: transparent;
-	color: #6ABDAB;
+	color: #0000FF;
 	text-decoration: none;
 }
 
 .btn-solid-lg {
 	display: inline-block;
 	padding: 1.5rem 2.375rem 1.5rem 2.375rem;
-	border: 0.125rem solid #6ABDAB;
+	border: 0.125rem solid #0000FF;
 	border-radius: 2rem;
-	background-color: #6ABDAB;
+	background-color: #0000FF;
 	color: #fff;
 	font: 700 0.875rem/0 "Open Sans", sans-serif;
 	text-decoration: none;
@@ -154,9 +154,9 @@ a.red {
 }
 
 .btn-solid-lg:hover {
-	border: 0.125rem solid #6ABDAB;
+	border: 0.125rem solid #0000FF;
 	background-color: transparent;
-	color: #6ABDAB;
+	color: #0000FF;
 	text-decoration: none;
 }
 
