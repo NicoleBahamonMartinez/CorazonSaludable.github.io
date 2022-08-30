@@ -2056,6 +2056,10 @@ a:hover.back-to-top {
 		margin-bottom: 2.875rem;
 	}
 
+	li{
+		margin: 10px 0;
+	}
+
 	.basic-2 .first .media-body {
 		max-width: 16.375rem;
 		margin-right: 5.75rem;
