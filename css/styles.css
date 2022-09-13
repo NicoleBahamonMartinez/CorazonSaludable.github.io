@@ -354,6 +354,10 @@ select::-ms-expand {
 	outline: none; /* Removes blue border on focus */
 }
 
+ul {
+	list-style-image: url('images/nudges.png');
+}
+
 .form-control-input:hover,
 .form-control-select:hover,
 .form-control-textarea:hover {
