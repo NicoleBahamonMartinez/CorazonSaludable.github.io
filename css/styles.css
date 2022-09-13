@@ -356,6 +356,8 @@ select::-ms-expand {
 
 ul {
 	list-style-image: url('images/nudges.png');
+	margin: 2px;
+  	padding: 2px;
 }
 
 .form-control-input:hover,
